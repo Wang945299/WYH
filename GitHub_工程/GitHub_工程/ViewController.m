@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"张三加上来的");
-    
+    NSLog(@"李四");
 }
 
 - (void)didReceiveMemoryWarning {
